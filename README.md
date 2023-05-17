@@ -3,7 +3,13 @@
 I'm soufiane aka soufianiso, I'm a web developer working mainly on backend applications using python and django and rest framework , I have also created some CLI apps using golang and python, 
 
 ### Skills and Experience:
-Python / Golang / Docker / HTML / CSS / Bash
+  * Python
+  * Golan
+  * Docker
+  * Javascript
+  * HTML
+  * CSS
+  * BASH
 
 - 🔭 I’m currently working on Ml and AI Project "revealed soon" 
 - 🌱 I’m currently learning Golang and wanna master it. 
