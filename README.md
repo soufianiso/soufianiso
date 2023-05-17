@@ -10,6 +10,11 @@ I'm soufiane aka soufianiso, I'm a web developer working mainly on backend appli
   * HTML
   * CSS
   * BASH
+### Project that I'm proud of:
+slam app tracking kepoints for each frame using ML and opencv:
+![image](https://github.com/soufianiso/soufianiso/assets/21336739/4ec4ec0c-5e67-4ffb-a2d5-f52f645d30a0)
+
+
 
 - 🔭 I’m currently working on Ml and AI Project "revealed soon" 
 - 🌱 I’m currently learning Golang and wanna master it. 
