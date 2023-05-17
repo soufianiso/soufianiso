@@ -12,7 +12,7 @@ I'm soufiane aka soufianiso, I'm a web developer working mainly on backend appli
   * HTML
   * CSS
   * BASH
-- 🔭 I’m currently working on Ml and AI Project "revealed soon" 
+- 🔭 I’m currently working on an AI Project "revealed soon" 
 - 🌱 I’m currently learning Golang and wanna master it. 
 - 📫 How to reach me: soufiantamasi@gmail.com 
 
