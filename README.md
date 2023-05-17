@@ -6,7 +6,7 @@ I'm soufiane aka soufianiso, I'm a web developer working mainly on backend appli
 
 ### Skills and Experience:
   * Python
-  * Golan
+  * Golang
   * Docker
   * Postgres
   * Javascript
