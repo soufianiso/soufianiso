@@ -1,8 +1,9 @@
-### Hi there 👋, Soufianiso
-#### I'm a software engineer in python and Django web developer
-I'm soufiane aka soufianiso, I'm a web developer working mainly on backend applications using python and dajngo framework, I have also created some CLI apps using golang and python, 
+### Hi there 👋, I'm Soufiane
+#### I'm a Python software engineer and Django web developer
+I'm soufiane aka soufianiso, I'm a web developer working mainly on backend applications using python and django and rest framework , I have also created some CLI apps using golang and python, 
 
-Skills: Python / Golang / Docker / HTML / CSS / Bash
+### Skills and Experience:
+Python / Golang / Docker / HTML / CSS / Bash
 
 - 🔭 I’m currently working on Ml and AI Project "revealed soon" 
 - 🌱 I’m currently learning Golang and wanna master it. 
