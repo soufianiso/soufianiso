@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Soufiane
-#### I'm a Python and go software engineer and Django web developer
+#### I'm a golang and Python software engineer 
 I'm soufiane aka soufianiso, I'm a web developer working mainly on backend applications using Golang and Python, I have also created some CLI apps using golang and python, 
 
 
