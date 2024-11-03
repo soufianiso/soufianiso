@@ -11,8 +11,7 @@ I'm soufiane aka soufianiso, I'm a web developer working mainly on backend appli
   * Javascript
   * HTML
   * CSS
-  * BASH
-- 🔭 I’m currently working on an AI Project "revealed soon"  
+  * BASH  
 - 📫 How to reach me: soufiantamasi@gmail.com 
 
 ### Project I'm proud of:
